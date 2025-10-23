@@ -1,0 +1,10 @@
+{
+  "name": "reachy-ai-backend",
+  "main": "src/index.ts",
+  "compatibility_date": "2023-12-18",
+
+  // You will need to add your Gemini API key as a secret
+  // Run `npx wrangler secret put GEMINI_API_KEY` in your terminal
+  // This is a fallback key, but the user should provide their own from the frontend.
+  // The user's key will be prioritized.
+}

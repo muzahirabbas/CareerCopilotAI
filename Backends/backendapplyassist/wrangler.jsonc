@@ -1,0 +1,14 @@
+{
+  // The name of your worker.
+  "name": "applyassist-backend",
+  // The main entry point for your worker.
+  "main": "src/index.ts",
+  // The compatibility date for your worker.
+  "compatibility_date": "2024-02-08",
+  
+  // Environment variables for your worker.
+  "vars": {
+    // You can set a global API key here as a fallback, but the frontend will send the user's key.
+    // "GEMINI_API_KEY": "YOUR_GLOBAL_FALLBACK_KEY_HERE"
+  }
+}
