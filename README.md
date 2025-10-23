@@ -2,6 +2,7 @@
 <div align="center">
 **Your personal AI-powered assistant for navigating the job application process.**
 
+
 [![AI Career Copilot Demo Video](https://img.youtube.com/vi/ZC_RiRlVmg8/0.jpg)](https://www.youtube.com/watch?v=ZC_RiRlVmg8)
 
 *(Click the image above to watch the demo tutorial)*
