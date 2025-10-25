@@ -12,6 +12,7 @@
 ---
 </div>
 
+
 ## Overview
 
 AI Career Copilot is a web application designed to streamline and enhance your job search by leveraging the power of Google's Gemini AI models. It combines several specialized tools into a single, cohesive interface, helping you craft professional CVs, generate tailored cover letters, answer application questions, and manage your professional outreach.
